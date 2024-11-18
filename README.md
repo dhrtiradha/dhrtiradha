@@ -21,9 +21,12 @@ Throughout my life I gathered different experiences and I am always open to some
 	
 • [LinkedIn](www.linkedin.com/in/diana-roze)   
 • Repositories:  
-1. [Three own projects](https://github.com/dhrtiradha/ThreeApplications)
-2. [Flight planner C# + Web Api](https://github.com/dhrtiradha/flight-planner-net)
-3. (will be adding others later)
+
+1.[Three own projects](https://github.com/dhrtiradha/ThreeApplications)  
+
+2.[Flight planner C# + Web Api](https://github.com/dhrtiradha/flight-planner-net)  
+
+3. 
 </h3>
 
 <hr></hr> 
