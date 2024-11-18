@@ -26,7 +26,6 @@ Throughout my life I gathered different experiences and I am always open to some
 
 2.[Flight planner C# + Web Api](https://github.com/dhrtiradha/flight-planner-net)  
 
-3. 
 </h3>
 
 <hr></hr> 
