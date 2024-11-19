@@ -4,7 +4,7 @@
 <h1>「 ✦ Welcome ✦ 」</h1>
 <h3>Hello! My name is Diana Roze. I am from Latvia.
 	
-You can see my CV [here](https://drive.google.com/file/d/1lS_lW5IZ76cnKtaCMmROEj34azHSh_MQ/view?usp=sharing).
+You can see my CV [here](https://drive.google.com/file/d/1dH8a2pzV8eDua-gQoxaDZJV2LzkKALMR/view?usp=drive_link).
 
    
 </h2>
