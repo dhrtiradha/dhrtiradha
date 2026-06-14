@@ -24,7 +24,7 @@ Throughout my life I gathered different experiences and I am always open to some
 
 2.[Flight planner C# + Web Api](https://github.com/dhrtiradha/flight-planner-net)  
 
-3.[Python + Selenium (private project)](https://drive.google.com/file/d/1qXtrvUwnsI9ihW4iLd8c5WhOdgdb8Np6/view?usp=sharing)
+3.[Python + Selenium (private project)](https://drive.google.com/file/d/1N469PYy1hwDVCbtZOvPRIIUXy-QH-L6u/view?usp=drive_link) 
 
 </h3>
 
