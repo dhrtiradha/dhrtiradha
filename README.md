@@ -3,8 +3,6 @@
 	
 <h1>「 ✦ Welcome ✦ 」</h1>
 <h3>Hello! My name is Diana Roze. I am from Latvia.
-	
-You can see my CV [here](https://drive.google.com/file/d/1Xy3_X58xIFMHECfF6Y3-e0tf4iP3fNU_/view?usp=sharing).
 
    
 </h2>
